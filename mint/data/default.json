@@ -1,0 +1,16 @@
+{
+  "auctionStart": {
+    "minus": {"seconds": 85800}
+  },
+  "comment": "25 auctions per day, each auction lasts for 24 hours",
+  "auctionOffset": 3456,
+  "auctionLength": 86400,
+  "priceInEther": 100,
+  "totalAvailable": 1,
+  "enableAuctions": true,
+  "category": "cat",
+  "frameSide": 27,
+  "gridSide": 5,
+  "fileMimeType": "image/png",
+  "optionalSplitAddress": null
+}

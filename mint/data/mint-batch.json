@@ -1,0 +1,254 @@
+{
+  "batch": [
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmXDR7YzXU9cRbmDABveq3AgpcNcyZ3eWaB5S8kqUXiTbb",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593591008,
+      "endDate": 1593677408
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmRugsCLUDEnRDLgcz9Qf4aKi85q5ovCRc31zSaHLmrwVy",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593591908,
+      "endDate": 1593678308
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmWL4y6jfuJwvbHZoEttFPKq1aVnbvVEWvB7rASqoLKmUW",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593592808,
+      "endDate": 1593679208
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmXtd1cH4Ks9Yaz1RUyJ3wRY7z5z6w8hLj96AsqwKLi7hV",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593593708,
+      "endDate": 1593680108
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "Qmd9cJrqRYfrx9Bb9gq5PQ3enKLLhRUiyDRqkDbo4WDsmH",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593594608,
+      "endDate": 1593681008
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "Qmcns1HzZFZgv8v8Whjjkg4xiX5BKf75rzZeNAsLzDFZiB",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593595508,
+      "endDate": 1593681908
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmTCXH3FDbMZRFKYNyJdaSbEyGWpEZPKEiniMJmE5xF4Ts",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593596408,
+      "endDate": 1593682808
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmXqheBXE6xUKAutvzUqEQva8RDpfEK5MPATRx6ffjbbhB",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593597308,
+      "endDate": 1593683708
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmV2R5nLdZZ6bQV3WQ9wis2y35epVGPMDbENECnKvj4wCT",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593598208,
+      "endDate": 1593684608
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmSEC1SPTePUZcuZXdQx3XPhLopzwz8e4KzDScVGNrxB7w",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593599108,
+      "endDate": 1593685508
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmfNvCNb6RQcehgMdJRm9CCM2rJVgDuF3vz6tqAv1Jif8J",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593600008,
+      "endDate": 1593686408
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmeqGViutKkxMGpBhz6PQ196YhvSUvMFvi5cG2yGdQvrZG",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593600908,
+      "endDate": 1593687308
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmYFZJKNYGgLGqSCTmPps6FUoZUoA2AesXBTxutXhQ56i9",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593601808,
+      "endDate": 1593688208
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "Qmces5S6YXeedetFuTmfZApeq1cnqjJXUJ8ca4QjU3ivX3",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593602708,
+      "endDate": 1593689108
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "Qmdv1PSkvQLcWkD4YrqVQuBUTsXQWpheVceT2rgDVMSU1w",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593603608,
+      "endDate": 1593690008
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmUkh8Bbf8Mw2W3dorFWGjb1t5Ksj1k195NQqsngicG3vh",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593604508,
+      "endDate": 1593690908
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmWAsisfHseLSQjnRDZZkozUgfMu4VwCSLdbp2rX4fsQW2",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593605408,
+      "endDate": 1593691808
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmXVFbCgHYSUgoDPdFcHk3YNF4Mbv4hddxyo9kFGtaSdmD",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593606308,
+      "endDate": 1593692708
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "Qme8P3GSV5V2wBXZP3HD5ukFGoLt7z9q3UWaqJeTSEHrnC",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593607208,
+      "endDate": 1593693608
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmZRYVRYpW4n9Z3tRmgQUgV4uS5VKZXjLrSvHK3jrqaHHw",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593608108,
+      "endDate": 1593694508
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmYN3ERatYbVJnPjyq4iBFCwZ7dBbunps9WN7YyRDSmpbo",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593609008,
+      "endDate": 1593695408
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmWvPqhjbywzWrtqtvqzDdKrKuhMAaeD5wRs6TwjKrrrYU",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593609908,
+      "endDate": 1593696308
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmPYPpHVXQAUJpkDphgrdU1TRPi9efwi1pLQgMpb2FEx9G",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593610808,
+      "endDate": 1593697208
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "Qme253ksiEJF3zY5mFiwyh1uQmA1969dqjfPyMfHZt46jh",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593611708,
+      "endDate": 1593698108
+    },
+    {
+      "artist": "0x947D8644fcC2b4186508430535604153081A4f7a",
+      "totalAvailable": 1,
+      "tokenUri": "QmZj81YCWoYVKUHL3Kv5q9LLbmenEma8q43wFmyTP8UCZP",
+      "priceInWei": "100000000000000000000",
+      "enableAuctions": true,
+      "optionalSplitAddress": null,
+      "startDate": 1593612608,
+      "endDate": 1593699008
+    }
+  ]
+}

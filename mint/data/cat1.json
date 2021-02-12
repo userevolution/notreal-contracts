@@ -1,0 +1,15 @@
+{
+  "auctionStart": {
+    "minus": {"hours": 7}
+  },
+  "auctionOffset": 1800,
+  "auctionLength": 18000,
+  "priceInEther": 100,
+  "totalAvailable": 1,
+  "enableAuctions": true,
+  "category": "cat1",
+  "frameSide": 27,
+  "gridSide": 5,
+  "fileMimeType": "image/png",
+  "optionalSplitAddress": null
+}
